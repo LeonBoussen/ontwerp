@@ -1,6 +1,3 @@
 # beatles let it be pagina
 
-hierbij een pagina met tekst van de namen enzo
-
-link naar live versie:
-http://31649.hosts1.ma-cloud.nl/beatless/
+link naar live: http://30542.hosts1.ma-cloud.nl/F1M1Ontwerp/beatles/index.html
